@@ -66,7 +66,7 @@ INSERT INTO `user` (`id`, `unique_id`, `user_fname`, `user_lname`, `user_email`,
 (3, '401271', 'Younais', 'Nazim', 'youni@gmail.com', '10th class student', '10-2-2023', '07/12/2005', '92 3051111', 'Alipur ', '1234', '9bfd3d5c.jpeg', 'deactive', '10/02/2023, 20:49:55'),
 (4, 'bb610c', 'Muhammad', 'Kashif', 'kashi@gmail.com', 'I am Web Developer', '10-2-2023', '03/08/2000', '+92 305123', 'Baqir Sah', '123kashi', '4db02f3b.jpg', 'deactive', '10/02/2023, 21:14:22'),
 (5, 'f055c4', 'umair', 'ali', 'uxair@gmail.com', 'pagal', '10-2-2023', '11/22/1999', '+021 89698', 'islamabad', '1234', '97a5c743.jpeg', 'active', ''),
-(6, 'fd0abf', 'Azka', 'Falak Sher', 'azka@gmail.com', 'Software Enginner ', '10-2-2023', '04/12/2003', '+92  33333', 'Lahore', 'azka123', '0043dfb5.jpeg', 'deactive', '10/02/2023, 20:50:30');
+(6, 'fd0abf', 'Humira', 'khan', 'khan@gmail.com', 'Software Enginner ', '10-2-2023', '04/12/2003', '+92  33333', 'Lahore', 'khan123', '0043dfb5.jpeg', 'deactive', '10/02/2023, 20:50:30');
 
 -- --------------------------------------------------------
 
@@ -90,7 +90,7 @@ INSERT INTO `user_messages` (`time`, `sender_message_id`, `receiver_message_id`,
 ('2023-02-10 20:05:01.000000', 'bb610c', 'fd0abf', 'Hey, yeah they\'re going alright. How about you?'),
 ('2023-02-10 20:09:28.000000', 'fd0abf', 'bb610c', 'Good, thanks! I\'m especially enjoying my operating system course. What about you, what\'s your favorite class this semester?'),
 ('2023-02-10 20:10:56.000000', 'bb610c', 'fd0abf', 'I\'m really enjoying my Web Engineering class. The professor is really knowledgeable and makes the material interesting.'),
-('2023-02-10 20:13:04.000000', 'fd0abf', 'bb610c', 'That\'s great! I\'ve heard Owais Hakeem is an excellent teacher.'),
+('2023-02-10 20:13:04.000000', 'fd0abf', 'bb610c', 'That\'s great! I\'ve heard Rana Waqas is an excellent teacher.'),
 ('2023-02-10 20:19:08.000000', 'bb610c', '0a09db', 'Hey there! How\'s it going?'),
 ('2023-02-10 20:19:46.000000', '0a09db', 'bb610c', 'Hey! I\'m good, thanks. How about you?'),
 ('2023-02-10 20:20:40.000000', 'bb610c', '0a09db', 'I\'m doing well, thanks. So, what have you been up to lately?'),
